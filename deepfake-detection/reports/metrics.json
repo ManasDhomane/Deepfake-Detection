@@ -1,0 +1,21 @@
+{
+  "threshold": 0.7899999999999999,
+  "frame_level": {
+    "accuracy": 0.635,
+    "precision": 0.7314285714285714,
+    "recall": 0.4266666666666667,
+    "f1": 0.5389473684210526,
+    "auc_roc": 0.6889388888888889
+  },
+  "video_level": {
+    "accuracy": 0.635,
+    "precision": 0.7314285714285714,
+    "recall": 0.4266666666666667,
+    "f1": 0.5389473684210526,
+    "auc_roc": 0.6889388888888889
+  },
+  "mean_fake_score_on_real_images": 0.25408726930618286,
+  "mean_fake_score_on_fake_images": 0.5211967825889587,
+  "test_frames": 1200,
+  "test_videos": 1200
+}

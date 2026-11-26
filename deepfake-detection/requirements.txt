@@ -1,0 +1,12 @@
+tensorflow==2.15.1
+numpy<2
+mtcnn==0.1.1
+opencv-python==4.9.0.80
+scikit-learn
+matplotlib
+tqdm
+pillow
+pyarrow>=14,<19
+datasets>=2.19,<4
+flask>=3.0
+flask-cors
